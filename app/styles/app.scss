@@ -1,0 +1,16 @@
+@import 'bootstrap';
+
+h3 {
+  margin: 10px 0;
+}
+
+.navbar {
+  border-radius: 0;
+}
+
+.panel-body {
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
