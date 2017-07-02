@@ -1,7 +1,11 @@
-# github-app
+## Sample Ember Github API app
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This app was created to serve as a reference app for students in the Alpha Camp bootcamp.
+
+The app consumes the following API from Github:
+
+1) Search for `Users` on Github.
+2) Search for `Repositories` on Github.
 
 ## Prerequisites
 
